@@ -1,6 +1,6 @@
 {
   "name": "windows-knownfolders",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Native addon for Node.js to query Windows Known Folders API",
   "license": "MIT",
   "author": {
